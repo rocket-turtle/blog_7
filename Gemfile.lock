@@ -7,7 +7,7 @@ GIT
 
 GIT
   remote: git@github.com:rocket-turtle/slim.git
-  revision: bf420ca66c12c77e34985834f1a54b765a001643
+  revision: fcbffb76672f334c4d917d3167bd2003b0e52808
   branch: no_temple_version
   specs:
     slim (4.1.0)
