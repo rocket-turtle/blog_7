@@ -1,4 +1,11 @@
 GIT
+  remote: git@github.com:judofyr/temple.git
+  revision: b05da6ca94ee799dec419160955cb6fc0ad4a86f
+  branch: master
+  specs:
+    temple (0.9.1)
+
+GIT
   remote: git@github.com:rocket-turtle/slim.git
   revision: bf420ca66c12c77e34985834f1a54b765a001643
   branch: no_temple_version
@@ -193,7 +200,6 @@ GEM
       mini_portile2 (~> 2.8.0)
     stimulus-rails (1.2.1)
       railties (>= 6.0.0)
-    temple (0.9.1)
     thor (1.2.1)
     tilt (2.0.11)
     timeout (0.3.1)
@@ -237,7 +243,7 @@ DEPENDENCIES
   sprockets-rails
   sqlite3 (~> 1.4)
   stimulus-rails
-  temple (= 0.9.1)
+  temple!
   turbo-rails
   tzinfo-data
   web-console

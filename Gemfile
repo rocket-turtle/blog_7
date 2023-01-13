@@ -31,7 +31,7 @@ gem "jbuilder"
 gem "redis", "~> 4.0"
 
 gem 'slim', '~> 4.1', git: 'git@github.com:rocket-turtle/slim.git', branch: 'no_temple_version'
-gem 'temple', '0.9.1'
+gem 'temple', git: 'git@github.com:judofyr/temple.git', branch: 'master'
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
