@@ -30,8 +30,8 @@ gem "jbuilder"
 # Use Redis adapter to run Action Cable in production
 gem "redis", "~> 4.0"
 
-gem 'slim', '~> 4.1', git: 'git@github.com:rocket-turtle/slim.git', branch: 'no_temple_version'
-gem 'temple', git: 'git@github.com:judofyr/temple.git', branch: 'master'
+gem 'slim', '~> 5.0'
+gem 'temple', '~> 0.10.0'
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
